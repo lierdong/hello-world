@@ -1,5 +1,4 @@
 # hello-world
-just a repository
 
 I am Skye.
 Not sky, but Skye.
